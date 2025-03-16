@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3A9CDF&size=30&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Frontend+Developer;Computer+Science+Student;Google+Developer+Groups+Co-Lead;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3A9CDF&size=30&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Frontend+Developer;Computer+Science+Student;Google+Developer+Groups+Co-Lead;Always+Learning;Market+Research)](https://git.io/typing-svg)
 
 </div>
 
@@ -100,5 +100,5 @@ A student-researcher collaboration platform with smart matching
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ktripathi2023&style=flat-square&color=3A9CDF" alt="Profile views" />
   
-  ### "Combining ML with real-world problems to create impactful solutions."
+  ### "Ideate,Innovate, Improvise - That's how I hustle🔥😎"
 </div>
