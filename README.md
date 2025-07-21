@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3A9CDF&size=30&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Frontend+Developer;Computer+Science+Student;Google+Developer+Groups+Co-Lead;Always+Learning;Market+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3A9CDF&size=30&center=true&vCenter=true&width=600&lines=Business+&+Entrepreneurship+Enthusiast;Machine+Learning+Enthusiast;Frontend+Developer;Computer+Science+Student;Google+Developer+Groups+Co-Lead;Always+Learning;Market+Research+Business+Analytics)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,10 +20,10 @@ developer = {
   "name": "Kshitij Tripathi",
   "education": "B.Tech Computer Science @ VIT Bhopal University",
   "location": "Noida, Uttar Pradesh",
-  "interests": ["Machine Learning", "Web Development", "Computer Vision", "Financial Analytics"],
+  "interests": ["Machine Learning", "Web Development", "Computer Vision", "Financial Analytics","Business Management],
   "leadership": "Co-Lead for Content Writing Domain @ Google Developer Groups",
-  "focus": "Building ML models for real-world applications",
-  "fun_fact": "I combine financial analytics with ML to create innovative investment solutions"
+  "focus": "Building meaningful and viable products for real-world applications",
+  "fun_fact": "I have a strong sense for business and management related stuff"
 }
 ```
 
@@ -77,6 +77,7 @@ A student-researcher collaboration platform with smart matching
 - 🌱 I'm currently learning **Computer Vision and Advanced ML Techniques**
 - 👯 I'm looking to collaborate on **ML Projects in Finance or Fashion Tech**
 - 💬 Ask me about **Machine Learning, Frontend Development, and Business Analytics**
+- Engaged in research,scaling and building new-age strong, market ready solutions
 
 ## 🏆 Certifications
 
